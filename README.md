@@ -87,8 +87,7 @@ LEAK_TYPES = {
 
 ### 📞 开发者信息
 
-    作者：dawn
-    官网：www.onechx.icu
+    作者：lain
     GitHub 仓库：https://github.com/2331221/KillTheCompetition
     功能反馈：欢迎提交 Issues 或 Pull Request 优化工具
 
